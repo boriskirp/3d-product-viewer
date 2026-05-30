@@ -4,8 +4,7 @@
 This is a high-performance, minimalist 3D component preview engine built with Three.js. Designed for digital creators, e-commerce platforms, and 3D artists to showcase interactive products directly in the web browser.
 
 ## 🚀 Live Demo
-[👉 CLICK HERE TO OPEN LIVE PREVIEW](https://YOUR_GITHUB_USERNAME.github.io/3d-product-viewer/)
-
+[👉 CLICK HERE TO OPEN LIVE PREVIEW]([(https://boriskirp.github.io/3d-product-viewer/)])
 *Note: The live demo is locked for commercial protection. To preview the engine interfaces, use the developer test key listed below.*
 
 ## 🔒 Commercial Protection & License Activation
